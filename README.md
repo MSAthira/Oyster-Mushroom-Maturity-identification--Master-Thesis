@@ -7,3 +7,4 @@ More readings and the final Thesis Presentation and the Thesis PDF can be found 
 ![image](https://github.com/MSAthira/Oyster-Mushroom-Maturity-identification--Master-Thesis/assets/77021757/525ea21c-3445-4e73-8718-16c3f78e95e6)
 ![image](https://github.com/MSAthira/Oyster-Mushroom-Maturity-identification--Master-Thesis/assets/77021757/5ec2d409-3089-41d1-a4e9-e7ba3b544634)
 
+![image](https://github.com/MSAthira/Oyster-Mushroom-Maturity-identification--Master-Thesis/assets/77021757/af253c37-b0b0-4c38-ae13-8551b6c08653)
